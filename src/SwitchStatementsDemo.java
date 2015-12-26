@@ -82,7 +82,7 @@ public class SwitchStatementsDemo {
 		switch(month){
 				
 		case 1:
-			if(year % 400 == 0){
+			if((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0)){
 				numDays = 29;
 			}
 			else{
