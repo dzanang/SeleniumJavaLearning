@@ -1,3 +1,4 @@
+package automobile;
 
 public class BMW extends Cars{
 	public BMW (int startSpeed){

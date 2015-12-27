@@ -1,3 +1,4 @@
+package automobile;
 class Car {
 	int year;
 	private String make;

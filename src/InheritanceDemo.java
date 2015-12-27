@@ -1,3 +1,5 @@
+import automobile.BMW;
+import automobile.Cars;
 
 public class InheritanceDemo {
 
