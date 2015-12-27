@@ -1,6 +1,6 @@
 package automobile;
 
-@SuppressWarnings({ "unused", "unused" })
+@SuppressWarnings({ "unused" })
 public abstract class AbstractCars {
 	private int privateSpeed;
 	public int publicSpeed;
